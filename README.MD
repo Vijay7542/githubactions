@@ -1,1 +1,1 @@
-#This is Pracice for Github actions
+#This is Practice for Github actions
